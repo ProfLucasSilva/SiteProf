@@ -36,3 +36,17 @@ img {
 .copyright {
     text-align: center;
 }
+
+.paulo{
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 50px;
+}
+
+.freire{
+    text-align:right;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-right: 30px;
+}
