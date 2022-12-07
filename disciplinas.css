@@ -25,6 +25,11 @@ nav a{
     text-decoration: none;
 }
 
+nav a:hover{
+    color:#06bd06;
+    text-decoration: underline;
+}
+
 .construcao{
     text-align:center;
 }
