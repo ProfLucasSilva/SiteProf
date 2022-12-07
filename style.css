@@ -33,8 +33,26 @@ img {
     margin-right: auto;
 }
 
+.licenciado{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}
+
+.pos{
+    text-align:center;
+    font-size: 20px;
+}
+
+.pesquisador{
+    text-align: center;
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
 .copyright {
     text-align: center;
+    margin: 20px;
 }
 
 .paulo{
@@ -42,11 +60,15 @@ img {
     font-weight: bold;
     text-transform: uppercase;
     font-size: 50px;
+    background: #ff000075;
+    padding-top: 20px;
 }
 
 .freire{
     text-align:right;
     font-size: 30px;
     text-transform: uppercase;
-    margin-right: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    background: #ff000075;
 }
