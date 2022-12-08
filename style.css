@@ -52,6 +52,46 @@ img {
     padding-bottom: 10px;
 }
 
+.slecletra{
+    color: #ffffff;
+    background: #000000;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.slecletra2{
+    color: #ffffff;
+    background: #000000;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.slec{
+    background: #000000;
+    padding: 20px;
+}
+
+.slec1{
+    display: inline-block;
+    vertical-align: top;
+    padding: 15px;
+    border-radius: 50px;
+}
+
+.slec2{
+    display: inline-block;
+    position:relative;
+    top: 100px;
+    padding: 15px;
+    border-radius: 50px;
+}
+
 .copyright {
     text-align: center;
     margin: 20px;
