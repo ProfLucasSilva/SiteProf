@@ -37,17 +37,19 @@ h1{
 }
 
 .mara{
-    text-align: center;
+    display: inline;
 }
 
 .maraimagem{
     display: inline-block;
     width: 15%;
     border-radius: 100%;
+    float: left;
+    margin: 20px;
 }
 
 .maratexto{
-    display: inline-block;
+    display: inline;
     position: relative;
     vertical-align: top;
     top:100px;
@@ -55,20 +57,63 @@ h1{
 }
 
 .lucas{
-    text-align: center;
+    display: inline-block;
 }
 
 .lucasimagem{
     display: inline-block;
     width: 15%;
     border-radius: 100%;
+    float: left;
+    margin: 20px;
+    
 }
 
 .lucastexto{
-    display: inline-block;
+    display: inline;
     position: relative;
     vertical-align: top;
-    top:150px;
+    top:100px;
+    font-size: 30px;
+}
+
+.caua{
+    display: inline-block;
+}
+
+.cauaimagem{
+    display: inline-block;
+    width: 15%;
+    border-radius: 100%;
+    float: left;
+    margin: 20px;
+}
+
+.cauatexto{
+    display: inline;
+    position: relative;
+    vertical-align: top;
+    top:100px;
+    font-size: 30px;
+}
+
+.maria{
+    display: inline-block;
+}
+
+.mariaimagem{
+    display: inline-block;
+    width: 20%;
+    border-radius: 100%;
+    float: left;
+    margin: 20px;
+}
+
+.mariatexto{
+    display: inline;
+    position: relative;
+    vertical-align: top;
+    top:100px;
     font-size: 30px;
 }
 
