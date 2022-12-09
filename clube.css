@@ -37,7 +37,10 @@ h1{
 }
 
 .mara{
-    display: inline;
+    display: inline-block;
+    background: #9e376e94;
+    margin: 20px;
+    border-radius: 20px;
 }
 
 .maraimagem{
@@ -58,6 +61,9 @@ h1{
 
 .lucas{
     display: inline-block;
+    background: #262a337a;
+    margin: 20px;
+    border-radius: 20px;
 }
 
 .lucasimagem{
@@ -79,6 +85,9 @@ h1{
 
 .caua{
     display: inline-block;
+    background: #0f2b7180;
+    margin: 20px;
+    border-radius: 20px;
 }
 
 .cauaimagem{
@@ -99,6 +108,10 @@ h1{
 
 .maria{
     display: inline-block;
+    background:  #934a5575;
+    margin: 20px;
+    border-radius: 20px;
+    
 }
 
 .mariaimagem{
@@ -119,6 +132,9 @@ h1{
 
 .barbara{
     display: inline-block;
+    background:  #374e6e71;
+    margin: 20px;
+    border-radius: 20px;
 }
 
 .barbaraimagem{
