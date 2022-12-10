@@ -153,6 +153,52 @@ h1{
     font-size: 30px;
 }
 
+.bianca{
+    display: inline-block;
+    background:  #8920307c;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.biancaimagem{
+    display: inline-block;
+    width: 15%;
+    border-radius: 100%;
+    float: left;
+    margin: 20px;
+}
+
+.biancatexto{
+    display: inline;
+    position: relative;
+    vertical-align: top;
+    top:100px;
+    font-size: 30px;
+}
+
+.guilherme{
+    display: inline-block;
+    background:  #4b698380;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.guilhermeimagem{
+    display: inline-block;
+    width: 15%;
+    border-radius: 100%;
+    float: left;
+    margin: 20px;
+}
+
+.guilhermetexto{
+    display: inline;
+    position: relative;
+    vertical-align: top;
+    top:100px;
+    font-size: 30px;
+}
+
 .copyright {
     text-align: center;
     margin: 20px;
