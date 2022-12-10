@@ -79,6 +79,7 @@ img {
 
 .slec1{
     display: inline-block;
+    position:relative;
     vertical-align: top;
     padding: 15px;
     border-radius: 50px;
@@ -87,7 +88,6 @@ img {
 .slec2{
     display: inline-block;
     position:relative;
-    top: 100px;
     padding: 15px;
     border-radius: 50px;
 }
